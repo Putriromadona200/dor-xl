@@ -1,7 +1,7 @@
 # dor-xl
 Dor XL
 
-COMAND
+COMMAND
 1. apt update
 2. apt upgrade
 3. apt install git

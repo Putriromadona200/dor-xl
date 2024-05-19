@@ -2,11 +2,11 @@
 Dor XL
 
 COMAND
-apt update
-pkg update
-pkg upgrade
-pkg install git
-pkg install php
-git clone https://github.com/Inject-ID/dor-xl
-cd dor-xl
-php dor.php
+1. apt update
+2. pkg update
+3. pkg upgrade
+4. pkg install git
+5. pkg install php
+6. git clone https://github.com/Putriromadona200/dor-xl
+7. cd dor-xl
+8. php dor.php

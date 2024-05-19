@@ -3,10 +3,9 @@ Dor XL
 
 COMAND
 1. apt update
-2. pkg update
-3. pkg upgrade
-4. pkg install git
-5. pkg install php
-6. git clone https://github.com/Putriromadona200/dor-xl
-7. cd dor-xl
-8. php dor.php
+2. apt upgrade
+3. apt install git
+4. apt install php
+5. git clone https://github.com/Putriromadona200/dor-xl
+6. cd dor-xl
+7. php dor.php
